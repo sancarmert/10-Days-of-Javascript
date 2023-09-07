@@ -1,4 +1,3 @@
-                       |
 # 10-Days-of-Javascript
 |  #  | Challenge                                                                                                                     | Solution                                                                              |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------|
@@ -7,7 +6,7 @@
 | 03 | [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem?isFullScreen=true)              | [Arithmetic Operators](Arithmetic_Operators.js)                                       |
 | 04 | [Functions](https://www.hackerrank.com/challenges/js10-function/problem?isFullScreen=true)                                     | [Functions](Functions.js)                                                             |
 | 05 | [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem?isFullScreen=true)                            | [Let and Const](Let_and_Const.js)                                                     |
-| 06 | [If Else](https://www.hackerrank.com/challenges/js10-if-else/problem?isFullScreen=true)                                        | [If Else](If_Else.js)                                                                  |
+| 06 | [If Else](https://www.hackerrank.com/challenges/js10-if-else/problem?isFullScreen=true)                                        | [If Else](If_Else.js)                                                                 |
 | 07 | [Switch](https://www.hackerrank.com/challenges/js10-switch/problem?isFullScreen=true)                                          | [Switch](Switch.js)                                                                   |
 | 08 | [Loops](https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true)                                            | [Loops](Loops.js)                                                                     |
 | 09 | [Arrays](https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true)                                          | [Arrays](Arrays.js)                                                                   |
@@ -21,9 +20,9 @@
 | 17 | [Arrow Functions](https://www.hackerrank.com/challenges/js10-arrow-functions/problem?isFullScreen=true)                        | [Arrow Functions](Arrow_Functions.js)                                                 |
 | 18 | [Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise-operators/problem?isFullScreen=true)                    | [Bitwise Operators](Bitwise_Operators.js)                                             |
 | 19 | [Dates](https://www.hackerrank.com/challenges/js10-date/problem?isFullScreen=true)                                             | [Dates](Dates.js)                                                                     |
-| 20 | [Regular Expressions 1](https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true)                         | [Regular Expressions 1](Regular_Expressions_1.js)                                     |
-| 21 | [Regular Expressions 2](https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true)                         | [Regular Expressions 2](Regular_Expressions_2.js)                                     |
-| 22 | [Regular Expressions 3](https://www.hackerrank.com/challenges/js10-regexp-3/problem?isFullScreen=true)                         | [Regular Expressions 3](Regular_Expressions_3.js)                                     |
+| 20 | [Regular Expressions 1](https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true)                         | [Regular Expressions 1](Regular_Expressions1.js)                                      |
+| 21 | [Regular Expressions 2](https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true)                         | [Regular Expressions 2](Regular_Expressions2.js)                                      |
+| 22 | [Regular Expressions 3](https://www.hackerrank.com/challenges/js10-regexp-3/problem?isFullScreen=true)                         | [Regular Expressions 3](Regular_Expressions3.js)                                      |
 | 23 | [Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button/problem?isFullScreen=true)                        | [Create a Button](Create_a_Button.js)                                                 |
 | 24 | [Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container/problem?isFullScreen=true)                    | [Buttons Container](Buttons_Container.js)                                             |
 | 25 | [Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator/problem?isFullScreen=true)                    | [Binary Calculator](Binary_Calculator.js)                                             |
